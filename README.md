@@ -1,10 +1,12 @@
 # Anass - Data Analysis Portfolio 
 
 ## About
+Hi! I'm Anass and I hold a Bachelor's degree in Business Administration. I have 6 years of experience in the finance industry where I developed and honed my financial skills. In the past two years, I have been working in a technology company as a data analyst. With my solid background in finance and my current experience in technology, I have acquired a strong skillset in data analysis and engineering.
 
+Through this portfolio, I aim to showcase my expertise and progress in the field of data analytics and data engineering. I believe that my combination of business and technology knowledge, as well as my practical experience, makes me a valuable asset in any organization. I am eager to apply my skills to new and challenging projects and continue to grow my knowledge and expertise in this field.
  
 
-My CV in [pdf](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_data_analyst_cv_eng.pdf) 
+My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV%20Anass%20Harbouli%20Eng%20DA%20Q.pdf) 
 
 <br>
 This repository serves as a display of my abilities, a place to present my work, and a method for monitoring my advancement in the fields of Data Analytics and Data engineering.<br>
