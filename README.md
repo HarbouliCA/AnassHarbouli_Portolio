@@ -7,8 +7,7 @@
 My CV in [pdf](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_data_analyst_cv_eng.pdf) 
 
 <br>
-This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
-<br>
+This repository serves as a display of my abilities, a place to present my work, and a method for monitoring my advancement in the fields of Data Analytics and Data engineering.<br>
   
 
 ## Table of contents
