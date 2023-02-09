@@ -35,12 +35,17 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
 **Results:** Review of the global and regional video games markets, data-based business recommendations.  
 
-### A Mobile Game Data Analysis
-**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
-**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
-**Skills:** data scraping, data cleaning, Data Exploration, python coding, data visualization, descriptive statistics, Data Transformation, Problem-Solving, Communication,...
-**Technology:** Python, Pandas, BeautifulSoup, Seaborn, Matplotlib.     
+### How data analysis saved lives in 1854
+**Code:** [`how-data-analysis-saved-lives-in-1854.ipynb`](how-data-analysis-saved-lives-in-1854.ipynb)    
+**Description:** Welcome! This project explores the impact of data analysis in saving lives. This project focuses on the historical event of the 1854 cholera outbreak in London and the role of John Snow in using data analysis to identify the source of the outbreak. Using the power of pandas and data visualization techniques, I will delve into the story of John Snow and show how data analysis can be used to make a significant impact in public health.   
+**Skills:** Data Exploration, python coding, data visualization, Data Transformation, Problem-Solving, Communication,...
+**Technology:** Python, Pandas, Matplotlib, folium, bokeh      
+
+### Football Analysis Passes and Shoots Location HeatMap
+**Code:** [`Football_Analysis_Passes-Location-Heatmap.ipynb`](Football_Analysis_Passes-Location-Heatmap.ipynb)    
+**Description:** I have analyzed the performance of two teams, Barcelona and Manchester United, and a player, Xavier Hernández, in a football match. Using a few data analysis techniques, I have created visualizations of the number of passes made by each team, the location of those passes, and heatmaps to represent the concentration of the passes. Additionally, I have also analyzed the number of passes made under pressure and without pressure by Xavier Hernández and the number of shots he took during the game.  
+**Skills:** Data Exploration, python coding, data visualization, Data Transformation, Problem-Solving, Communication,...
+**Technology:** Python, Pandas, numpy, seaborn, Matplotlib, mplsoccer, statsbombpy.  
 
 ## Study Projects
 Coming Soon
