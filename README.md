@@ -16,7 +16,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 - [Portfolio Projects](#portfolio-projects)
 	+ [Scrapping and Cleaning Data](#Scrapping-and-Cleaning-Data)
 	+ [How data analysis saved lives in 1854](#How-data-analysis-saved-lives-in-1854)
-	+ [Football Analysis Passes and Shoots Location HeatMap](#Football-Analysis-Passes-and_Shoots-Location-HeatMap)
+	+ [Football Analysis Passes and Shoots Location HeatMap](#Football-Analysis-Passes-and-Shoots-Location-HeatMap)
 
 - [Study Projects](#study-projects)  
 	+ [coming](#coming_oon)
