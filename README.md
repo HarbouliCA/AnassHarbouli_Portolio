@@ -14,12 +14,13 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
+	+ [Scrapping and Cleaning Data](#Scrapping_and_Cleaning_Data)
+	+ [How data analysis saved lives in 1854](#How_data_analysis_saved_lives_in_1854)
+	+ [Football Analysis Passes and Shoots Location HeatMap](#Football_Analysis_Passes_and_Shoots_Location_HeatMap)
 
 - [Study Projects](#study-projects)  
-	+ [sklearn ML course](#sklearn-ml-course)
-	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
+	+ [coming](#coming_oon)
+	
 
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -27,9 +28,9 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+### Scrapping and Cleaning Data
+**Code:** [`Scrapping_and_Cleaning_Data.ipynb`](Scrapping_and_Cleaning_Data.ipynb)    
+**Description:** This project is a web scraping script that leverages the power of BeautifulSoup and Pandas to gather data from a website and prepare it for analysis. The script uses BeautifulSoup to extract information from the HTML of a website and store it in a structured format. Pandas is then used to manipulate and clean the data, making it more readable and ready for further analysis. The goal of this project is to demonstrate the ability to gather and prepare data from the web using these powerful tools. The resulting data can be used for a variety of purposes, including generating insights and making data-driven decisions.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
 **Results:** Review of the global and regional video games markets, data-based business recommendations.  
@@ -38,33 +39,25 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
 **Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
 **Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
-**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
-**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
+**Skills:** data scraping, data cleaning, Data Exploration, python coding, data visualization, descriptive statistics, Data Transformation, Problem-Solving, Communication,...
+**Technology:** Python, Pandas, BeautifulSoup, Seaborn, Matplotlib.     
 
 ## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+Coming Soon
 
 ### sklearn ml course
 **Description:** Machine Learning in Python with scikit-learn by France Université Numérique. [The course official page](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/).  
 This 3 month course is an in-depth introduction to predictive modeling with scikit-learn. Step-by-step and didactic lessons introduce the fundamental methodological and software tools of machine learning, and is as such a stepping stone to more advanced challenges in artificial intelligence, text mining, or data science.  
 **Repository:** Check the repository having jupyter notebooks with the course lectures and tasks' solutions ---> [go to repo..](https://github.com/nktnlx/sklearn_ml_course)  
 **Status:** Completed in May 2022 (please, check the certificates section below).  
-
-### Kaggle 30 Days of ML
-**Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
-**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
-**Status:** Completed in August 2021 (please, check the certificates section below).    
-
-### Data Analyst Specialization
-**Description:** This is a 5 month specialization by [karpov.courses](https://karpov.courses/analytics). The specialization includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.  
-**Repository:** Check the repository having 37 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
-**Status:** Completed in July 2021 (please, check the certificates section below).  
+ 
 
 ## Certificates
-I think the most effective way to demonstrate abilities is through practical application and sharing the results of your work, although sometimes certificates can be an indirect outcome. Here is a list of the certificates I hold :
-- [Teamlead 101](https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing) (Jul 2022) (Stratoplan Management School)
-- [sklearn ML course](https://drive.google.com/file/d/1aUNxDbRCgnKkSzq6LPLRY91Of3L_AyR7/view?usp=sharing) (May 2022) (France Université Numérique)
+I believe that the best way to showcase one's abilities is through hands-on implementation and showcasing the outcomes of their work. Although, having certificates can sometimes serve as an additional testament to one's expertise. Here is a list of certificates I possess:
+- [Google Data Analytics]() (Jul 2022) (Coursera)
+- [IBM]() (Jul 2022) (Coursera)
+- [DP900] () (Jul 2022) (Online)
+- [DP203] () (Jul 2022) (Online)
 
 ## Contacts
 - LinkedIn: [@AnassHarbouli](https://www.linkedin.com/in/anass-harbouli-5b304810b)
