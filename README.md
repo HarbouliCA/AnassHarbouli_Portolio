@@ -43,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Football Analysis Passes and Shoots Location HeatMap
 **Code:** [`Football_Analysis_Passes-Location-Heatmap.ipynb`](Football_Analysis_Passes-Location-Heatmap.ipynb)    
 **Description:** I have analyzed the performance of two teams, Barcelona and Manchester United, and a player, Xavier Hernández, in a football match. Using a few data analysis techniques, I have created visualizations of the number of passes made by each team, the location of those passes, and heatmaps to represent the concentration of the passes. Additionally, I have also analyzed the number of passes made under pressure and without pressure by Xavier Hernández and the number of shots he took during the game.  
-**Skills:** Data Exploration, Python coding, Data visualization, Data Transformation, Problem-Solving, Communication,...
+**Skills:** Data Exploration, Python coding, Data visualization, Data Transformation, Problem-Solving, Communication.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Mplsoccer, Statsbombpy.  
 
 
