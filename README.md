@@ -57,8 +57,8 @@ Coming Soon
 I believe that the best way to showcase one's abilities is through hands-on implementation and showcasing the outcomes of their work. Although, having certificates can sometimes serve as an additional testament to one's expertise. Here is a list of certificates I possess:
 - [Google Data Analytics]() (Jul 2022) (Coursera)
 - [IBM]() (Jul 2022) (Coursera)
-- [DP900] () (Jul 2022) (Online)
-- [DP203] () (Jul 2022) (Online)
+- [DP900 - Azure Data Fundamentals]() (Jul 2022) (Online)
+- [DP203 - Data Engineering on Microsoft Azure]() (Jul 2022) (Online)
 
 ## Contacts
 - LinkedIn: [@AnassHarbouli](https://www.linkedin.com/in/anass-harbouli-5b304810b)
