@@ -47,15 +47,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data Exploration, python coding, data visualization, Data Transformation, Problem-Solving, Communication,...
 **Technology:** Python, Pandas, numpy, seaborn, Matplotlib, mplsoccer, statsbombpy.  
 
+
+
 ## Study Projects
 Coming Soon
-
-### sklearn ml course
-**Description:** Machine Learning in Python with scikit-learn by France Université Numérique. [The course official page](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/).  
-This 3 month course is an in-depth introduction to predictive modeling with scikit-learn. Step-by-step and didactic lessons introduce the fundamental methodological and software tools of machine learning, and is as such a stepping stone to more advanced challenges in artificial intelligence, text mining, or data science.  
-**Repository:** Check the repository having jupyter notebooks with the course lectures and tasks' solutions ---> 
-
- 
+  
 
 ## Certificates
 I believe that the best way to showcase one's abilities is through hands-on implementation and showcasing the outcomes of their work. Although, having certificates can sometimes serve as an additional testament to one's expertise. Here is a list of certificates I possess:
