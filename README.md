@@ -32,13 +32,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [`Scrapping_and_Cleaning_Data.ipynb`](Scrapping_and_Cleaning_Data.ipynb)    
 **Description:** This project is a web scraping script that leverages the power of BeautifulSoup and Pandas to gather data from a website and prepare it for analysis. The script uses BeautifulSoup to extract information from the HTML of a website and store it in a structured format. Pandas is then used to manipulate and clean the data, making it more readable and ready for further analysis. The goal of this project is to demonstrate the ability to gather and prepare data from the web using these powerful tools. The resulting data can be used for a variety of purposes, including generating insights and making data-driven decisions.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.    
 
 ### How data analysis saved lives in 1854
 **Code:** [`how-data-analysis-saved-lives-in-1854.ipynb`](how-data-analysis-saved-lives-in-1854.ipynb)    
-**Description:** This project explores the impact of data analysis in saving lives. This project focuses on the historical event of the 1854 cholera outbreak in London and the role of John Snow in using data analysis to identify the source of the outbreak. Using the power of pandas and data visualization techniques, I will delve into the story of John Snow and show how data analysis can be used to make a significant impact in public health.	
-**Skills:** Data Exploration, Python coding, Data visualization, Data Transformation, Problem-Solving, Communication.	
+**Description:** This project explores the impact of data analysis in saving lives. This project focuses on the historical event of the 1854 cholera outbreak in London and the role of John Snow in using data analysis to identify the source of the outbreak. Using the power of pandas and data visualization techniques, I will delve into the story of John Snow and show how data analysis can be used to make a significant impact in public health.  
+**Skills:** Data Exploration, Python coding, Data visualization, Data Transformation, Problem-Solving, Communication.  
 **Technology:** Python, Pandas, Matplotlib, folium, bokeh      
 
 ### Football Analysis Passes and Shoots Location HeatMap
