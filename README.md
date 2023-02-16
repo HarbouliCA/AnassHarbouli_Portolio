@@ -15,9 +15,10 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 	+ [Scrapping and Cleaning Data](#Scrapping-and-Cleaning-Data)
 	+ [How data analysis saved lives in 1854](#How-data-analysis-saved-lives-in-1854)
 	+ [Football Analysis Passes and Shoots Location HeatMap](#Football-Analysis-Passes-and-Shoots-Location-HeatMap)
-
-- [Study Projects](#study-projects)  
-	+ [coming](#coming_oon)
+	
+- [Power Bi](#Power-Bi)
+	+ [Financial Statement report](#Financial-Statement-report)
+	+ [Produits Pharma sales Analysis](#Produits-Pharma-dashboard)
 	
 
 - [Certificates](#certificates)
@@ -46,14 +47,23 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-## Study Projects
-Coming Soon
-  
+## Power Bi
+
+### Financial Statement report
+**Report:** [`Financial_Statement_report.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pdf) <br>
+**Project:** [`Financial_Statement_report.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pbix) <br>
+**Description:** This project is a financial statement report that provides a comprehensive analysis of a company's financial performance. The data source for this project was connected using Azure Data Lake Gen 2, and the data was cleaned and transformed using Power Query. It includes various visualizations such as bar charts, Matrix, and Cards to represent the financial data in a clear and easy-to-understand format.<br>
+**Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
+
+### Produits Pharma sales Analysis
+**Report:** [`Produits Pharma.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pdf) <br>
+**Project:** [`Produits Pharma.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) <br>
+**Description:** This project provide a clear insights about the sales performance inside pharma company. The data was cleaned and prepared using excel sheet and power query. It includes various visualizations to represent the turnerover sales over time and the performance of each emplyee by region.<br>
+**Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
 
 ## Certificates
 I believe that the best way to showcase one's abilities is through hands-on implementation and showcasing the outcomes of their work. Although, having certificates can sometimes serve as an additional testament to one's expertise. Here is a list of certificates I possess:
 - [Google Data Analytics]() (Jul 2022) (Coursera)
-- [IBM]() (Jul 2022) (Coursera)
 - [DP900 - Azure Data Fundamentals]() (Jul 2022) (Online)
 - [DP203 - Data Engineering on Microsoft Azure]() (Jul 2022) (Online)
 
