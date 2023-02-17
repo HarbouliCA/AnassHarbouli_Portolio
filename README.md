@@ -12,7 +12,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Scrapping and Cleaning Data](#Scrapping-and-Cleaning-Data)
+	+ [Analysis of data extraction and data cleaning](#Analysis-of-data-extraction-and-data-cleaning )
 	+ [How data analysis saved lives in 1854](#How-data-analysis-saved-lives-in-1854)
 	+ [Football Analysis Passes and Shoots Location HeatMap](#Football-Analysis-Passes-and-Shoots-Location-HeatMap)
 	
@@ -27,7 +27,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Scrapping and Cleaning Data
+### Analysis of data extraction and data cleaning 
 **Code:** [`Scrapping_and_Cleaning_Data.ipynb`](Scrapping_and_Cleaning_Data.ipynb)    
 **Description:** This project is a web scraping script that leverages the power of BeautifulSoup and Pandas to gather data from a website and prepare it for analysis. The script uses BeautifulSoup to extract information from the HTML of a website and store it in a structured format. Pandas is then used to manipulate and clean the data, making it more readable and ready for further analysis. The goal of this project is to demonstrate the ability to gather and prepare data from the web using these powerful tools. The resulting data can be used for a variety of purposes, including generating insights and making data-driven decisions.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
