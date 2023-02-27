@@ -49,7 +49,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Power Bi
 
-### Financial Statement report
+### Financial Statement Report
 **Report:** [`Financial_Statement_report.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pdf) <br>
 **Project:** [`Financial_Statement_report.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pbix) <br>
 **Description:** This project is a financial statement report that provides a comprehensive analysis of a company's financial performance. The data source for this project was connected using Azure Data Lake Gen 2, and the data was cleaned and transformed using Power Query. It includes various visualizations such as bar charts, Matrix, and Cards to represent the financial data in a clear and easy-to-understand format.<br>
