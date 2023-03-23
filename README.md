@@ -49,7 +49,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Mplsoccer, Statsbombpy.  
 
 
-
 ## Power Bi
 
 ### Financial Statement Report
@@ -65,8 +64,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
 
 ### AI Assistant
-**Report:** [`Produits Pharma.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pdf) <br>
-**Project:** [`Produits Pharma.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) <br>
+**Project:** [`main.py`](https://github.com/HarbouliCA/AI_Assistant/blob/main/main.py) <br>
 **Description:**  this AI assistant code combines speech recognition, natural language processing (GPT-3), and text-to-speech capabilities to create an interactive voice-based experience for users. It demonstrates skills in working with APIs, audio processing, speech recognition, and text-to-speech synthesis.<br>
 **Skills:** OpenAI API, Speech recognition, Text-to-speech, Audio processing, Communication.  <br>
 
