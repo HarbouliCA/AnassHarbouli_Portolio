@@ -19,7 +19,10 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 - [Power Bi](#Power-Bi)
 	+ [Financial Statement report](#Financial-Statement-report)
 	+ [Produits Pharma sales Analysis](#Produits-Pharma-dashboard)
-	
+
+- [Python Projects](#Python-Projects)
+	+ [AI Assistant](#AI-Assistant)
+
 
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -60,6 +63,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Project:** [`Produits Pharma.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) <br>
 **Description:** This project provide a clear insights about the sales performance inside pharma company. The data was cleaned and prepared using excel sheet and power query. It includes various visualizations to represent the turnerover sales over time and the performance of each emplyee by region.<br>
 **Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
+
+### AI Assistant
+**Report:** [`Produits Pharma.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pdf) <br>
+**Project:** [`Produits Pharma.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) <br>
+**Description:**  this AI assistant code combines speech recognition, natural language processing (GPT-3), and text-to-speech capabilities to create an interactive voice-based experience for users. It demonstrates skills in working with APIs, audio processing, speech recognition, and text-to-speech synthesis.<br>
+**Skills:** OpenAI API, Speech recognition, Text-to-speech, Audio processing, Communication.  <br>
 
 ## Certificates
 I believe that the best way to showcase one's abilities is through hands-on implementation and showcasing the outcomes of their work. Although, having certificates can sometimes serve as an additional testament to one's expertise. Here is a list of certificates I possess:
