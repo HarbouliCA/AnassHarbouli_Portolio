@@ -79,7 +79,6 @@ In this section I will list data analytics projects briefly describing the techn
 ## Certificates
 I believe that the best way to showcase one's abilities is through hands-on implementation and showcasing the outcomes of their work. Although, having certificates can sometimes serve as an additional testament to one's expertise. Here is a list of certificates I possess:
 - [Google Data Analytics]() (Jan 2022) (Coursera)
-- [DP900 - Azure Data Fundamentals]() (2022) (Online)
 - [DP203 - Data Engineering on Microsoft Azure]() (2023) (Online)
 
 ## Contacts
