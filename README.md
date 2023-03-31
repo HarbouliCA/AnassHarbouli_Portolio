@@ -52,7 +52,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.    
 
 ### How data analysis saved lives in 1854
-**Code:** [`how-data-analysis-saved-lives-in-1854.ipynb`]([how-data-analysis-saved-lives-in-1854.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb))    
+**Code:** [`how-data-analysis-saved-lives-in-1854.ipynb`](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb)   
 **Description:** This project explores the impact of data analysis in saving lives. This project focuses on the historical event of the 1854 cholera outbreak in London and the role of John Snow in using data analysis to identify the source of the outbreak. Using the power of pandas and data visualization techniques, I will delve into the story of John Snow and show how data analysis can be used to make a significant impact in public health.  
 **Skills:** Data Exploration, Python coding, Data visualization, Data Transformation, Problem-Solving, Communication.  
 **Technology:** Python, Pandas, Matplotlib, folium, bokeh      
