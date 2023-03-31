@@ -20,7 +20,8 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 	+ [Financial Statement report](#Financial-Statement-report)
 	+ [Produits Pharma sales Analysis](#Produits-Pharma-dashboard)
 
-- [Python Projects](#Python-Projects)
+- [Software engineering projects ](#Software-engineering-projects)
+	+ [Software engineering](#Software-engineering)
 	+ [AI Assistant](#AI-Assistant)
 
 
