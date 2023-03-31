@@ -28,7 +28,6 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## Power Bi
 
