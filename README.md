@@ -15,7 +15,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 	+ [Financial Statement report](#Financial-Statement-report)
 	+ [Produits Pharma sales Analysis](#Produits-Pharma-dashboard)
 
-- [Portfolio Projects](#portfolio-projects)
+- [Data Analysis Projects](#Data-Analysis)
 	+ [Analysis of data extraction and data cleaning](#Analysis-of-data-extraction-and-data-cleaning )
 	+ [How data analysis saved lives in 1854](#How-data-analysis-saved-lives-in-1854)
 	+ [Football Analysis Passes and Shoots Location HeatMap](#Football-Analysis-Passes-and-Shoots-Location-HeatMap)
@@ -28,7 +28,6 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## Power Bi
@@ -44,6 +43,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Project:** [`Produits Pharma.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) <br>
 **Description:** This project provide a clear insights about the sales performance inside pharma company. The data was cleaned and prepared using excel sheet and power query. It includes various visualizations to represent the turnerover sales over time and the performance of each emplyee by region.<br>
 **Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
+
+## Data Analysis Projects
 
 ### Analysis of data extraction and data cleaning 
 **Code:** [`Scrapping_and_Cleaning_Data.ipynb`](Scrapping_and_Cleaning_Data.ipynb)    
