@@ -63,6 +63,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** This project provide a clear insights about the sales performance inside pharma company. The data was cleaned and prepared using excel sheet and power query. It includes various visualizations to represent the turnerover sales over time and the performance of each emplyee by region.<br>
 **Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
 
+## Software engineering
+
+### Flask web application
+**Project:** [`Flask_Project`](https://github.com/HarbouliCA/Flask_Project) <br>
+**Description:**  .<br>
+**Skills:** Python programming, Web developmen, Flask's architecture, Database design and management, Git, Software testing, Deployment and server administration, Problem-solving <br>
+
 ### AI Assistant
 **Project:** [`main.py`](https://github.com/HarbouliCA/AI_Assistant/blob/main/main.py) <br>
 **Description:**  this AI assistant code combines speech recognition, natural language processing (GPT-3), and text-to-speech capabilities to create an interactive voice-based experience for users. It demonstrates skills in working with APIs, audio processing, speech recognition, and text-to-speech synthesis.<br>
