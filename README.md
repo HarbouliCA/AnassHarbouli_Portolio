@@ -11,15 +11,15 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 
 ## Table of contents
 - [About](#about)
+- [Power Bi](#Power-Bi)
+	+ [Financial Statement report](#Financial-Statement-report)
+	+ [Produits Pharma sales Analysis](#Produits-Pharma-dashboard)
+
 - [Portfolio Projects](#portfolio-projects)
 	+ [Analysis of data extraction and data cleaning](#Analysis-of-data-extraction-and-data-cleaning )
 	+ [How data analysis saved lives in 1854](#How-data-analysis-saved-lives-in-1854)
 	+ [Football Analysis Passes and Shoots Location HeatMap](#Football-Analysis-Passes-and-Shoots-Location-HeatMap)
 	
-- [Power Bi](#Power-Bi)
-	+ [Financial Statement report](#Financial-Statement-report)
-	+ [Produits Pharma sales Analysis](#Produits-Pharma-dashboard)
-
 - [Software engineering projects ](#Software-engineering-projects)
 	+ [Software engineering](#Software-engineering)
 	+ [AI Assistant](#AI-Assistant)
@@ -30,6 +30,20 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+## Power Bi
+
+### Financial Statement Report
+**Report:** [`Financial_Statement_report.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pdf) <br>
+**Project:** [`Financial_Statement_report.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pbix) <br>
+**Description:** This project is a financial statement report that provides a comprehensive analysis of a company's financial performance. The data source for this project was connected using Azure Data Lake Gen 2, and the data was cleaned and transformed using Power Query. It includes various visualizations such as bar charts, Matrix, and Cards to represent the financial data in a clear and easy-to-understand format.<br>
+**Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
+
+### Produits Pharma sales Analysis
+**Report:** [`Produits Pharma.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits_Pharma.pdf) <br>
+**Project:** [`Produits Pharma.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) <br>
+**Description:** This project provide a clear insights about the sales performance inside pharma company. The data was cleaned and prepared using excel sheet and power query. It includes various visualizations to represent the turnerover sales over time and the performance of each emplyee by region.<br>
+**Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
 
 ### Analysis of data extraction and data cleaning 
 **Code:** [`Scrapping_and_Cleaning_Data.ipynb`](Scrapping_and_Cleaning_Data.ipynb)    
@@ -48,21 +62,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** I have analyzed the performance of two teams, Barcelona and Manchester United, and a player, Xavier Hernández, in a football match. Using a few data analysis techniques, I have created visualizations of the number of passes made by each team, the location of those passes, and heatmaps to represent the concentration of the passes. Additionally, I have also analyzed the number of passes made under pressure and without pressure by Xavier Hernández and the number of shots he took during the game.  
 **Skills:** Data Exploration, Python coding, Data visualization, Data Transformation, Problem-Solving, Communication.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Mplsoccer, Statsbombpy.  
-
-
-## Power Bi
-
-### Financial Statement Report
-**Report:** [`Financial_Statement_report.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pdf) <br>
-**Project:** [`Financial_Statement_report.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pbix) <br>
-**Description:** This project is a financial statement report that provides a comprehensive analysis of a company's financial performance. The data source for this project was connected using Azure Data Lake Gen 2, and the data was cleaned and transformed using Power Query. It includes various visualizations such as bar charts, Matrix, and Cards to represent the financial data in a clear and easy-to-understand format.<br>
-**Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
-
-### Produits Pharma sales Analysis
-**Report:** [`Produits Pharma.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits_Pharma.pdf) <br>
-**Project:** [`Produits Pharma.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) <br>
-**Description:** This project provide a clear insights about the sales performance inside pharma company. The data was cleaned and prepared using excel sheet and power query. It includes various visualizations to represent the turnerover sales over time and the performance of each emplyee by region.<br>
-**Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
 
 ## Software engineering
 
