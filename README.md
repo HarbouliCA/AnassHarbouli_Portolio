@@ -59,7 +59,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
 
 ### Produits Pharma sales Analysis
-**Report:** [`Produits Pharma.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pdf) <br>
+**Report:** [`Produits Pharma.pdf`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits_Pharma.pdf) <br>
 **Project:** [`Produits Pharma.pbix`](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) <br>
 **Description:** This project provide a clear insights about the sales performance inside pharma company. The data was cleaned and prepared using excel sheet and power query. It includes various visualizations to represent the turnerover sales over time and the performance of each emplyee by region.<br>
 **Skills:** Data Mapping, Data Exploration, Data visualization, Problem-Solving, Communication.  <br>
