@@ -20,7 +20,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 	+ [How data analysis saved lives in 1854](#How-data-analysis-saved-lives-in-1854)
 	+ [Football Analysis Passes and Shoots Location HeatMap](#Football-Analysis-Passes-and-Shoots-Location-HeatMap)
 	
-- [Software engineering projects ](#Software-engineering-projects)
+- [Software engineering projects](#Software-engineering-projects)
 	+ [Flask web application](#Flask-web-application)
 	+ [AI Assistant](#AI-Assistant)
 
@@ -63,7 +63,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 **Skills:** Data Exploration, Python coding, Data visualization, Data Transformation, Problem-Solving, Communication.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Mplsoccer, Statsbombpy.  
 
-## Software engineering
+## Software engineering projects
 
 ### Flask web application
 **Project:** [`Flask_Project`](https://github.com/HarbouliCA/Flask_Project) <br>
