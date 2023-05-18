@@ -67,7 +67,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 
 ### Flask web application
 **Project:** [`Flask_Project`](https://github.com/HarbouliCA/Flask_Project) <br>
-**Description:**  .<br>
+**Description:**The Flask web app is a volunteer project developed by you to provide system administration and management for an association. The app aims to streamline and simplify various administrative tasks associated with the association, allowing for efficient management of resources and operations. It offers features such as user management, member registration, data storage and retrieval, and possibly more, depending on the specific requirements of the association.<br>
 **Skills:** Python programming, Web developmen, Flask's architecture, Database design and management, Git, Software testing, Deployment and server administration, Problem-solving <br>
 
 ### AI Assistant
