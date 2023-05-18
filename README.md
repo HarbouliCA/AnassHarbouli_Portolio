@@ -21,7 +21,7 @@ My CV in [pdf](https://github.com/HarbouliCA/AnassHarbouli_Portolio/blob/main/CV
 	+ [Football Analysis Passes and Shoots Location HeatMap](#Football-Analysis-Passes-and-Shoots-Location-HeatMap)
 	
 - [Software engineering projects ](#Software-engineering-projects)
-	+ [Software engineering](#Software-engineering)
+	+ [Flask web application](#Flask-web-application)
 	+ [AI Assistant](#AI-Assistant)
 
 
